@@ -1,0 +1,6 @@
+osx_image: xcode13.4
+language: swift
+os: osx
+xcode_project: ContinuousIntegration.xcodeproj
+xcode_scheme: ContinuousIntegration
+xcode_destination: platform=iOS Simulator,OS=15.0,name=iPhone 11 Pro Max
